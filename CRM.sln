@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.API", "CRM.API\CRM.API.csproj", "{6B4E426B-F27B-43F9-AFBC-D2CAD8BF92E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.DTOs", "CRM.DTOs\CRM.DTOs.csproj", "{C4A76FDC-1EB2-42E5-8F73-4C14B7854CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.AppWebMVC", "CRM.AppWebMVC\CRM.AppWebMVC.csproj", "{352800E9-2C9D-4606-9367-EC2D9B932545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4E426B-F27B-43F9-AFBC-D2CAD8BF92E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4E426B-F27B-43F9-AFBC-D2CAD8BF92E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4E426B-F27B-43F9-AFBC-D2CAD8BF92E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4E426B-F27B-43F9-AFBC-D2CAD8BF92E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A76FDC-1EB2-42E5-8F73-4C14B7854CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A76FDC-1EB2-42E5-8F73-4C14B7854CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A76FDC-1EB2-42E5-8F73-4C14B7854CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A76FDC-1EB2-42E5-8F73-4C14B7854CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352800E9-2C9D-4606-9367-EC2D9B932545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352800E9-2C9D-4606-9367-EC2D9B932545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352800E9-2C9D-4606-9367-EC2D9B932545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352800E9-2C9D-4606-9367-EC2D9B932545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4055E102-9097-4968-9C10-77100E6F90E1}
+	EndGlobalSection
+EndGlobal

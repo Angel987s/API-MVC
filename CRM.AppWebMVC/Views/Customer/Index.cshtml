@@ -1,0 +1,40 @@
+﻿@model SearchResultCustomerDTO
+
+@{
+    ViewData["Title"] = "Index";
+    var modelSearchQuery = ViewBag.SearchQuery as SearchQueryCustomerDTO;
+}
+
+<partial name="SearchQuery" model="modelSearchQuery" />
+<partial name="SearchResult" model="Model.Data" />
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CountRow)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Data)
+        { // Itera sobre Model.Data en lugar de Model
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name) // Muestra el nombre del cliente
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
