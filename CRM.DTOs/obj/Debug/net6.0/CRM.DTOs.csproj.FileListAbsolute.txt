@@ -9,3 +9,15 @@ C:\Users\MINEDUCYT\Desktop\GUIAS\guia 5\CRM\CRM.DTOs\obj\Debug\net6.0\CRM.DTOs.d
 C:\Users\MINEDUCYT\Desktop\GUIAS\guia 5\CRM\CRM.DTOs\obj\Debug\net6.0\refint\CRM.DTOs.dll
 C:\Users\MINEDUCYT\Desktop\GUIAS\guia 5\CRM\CRM.DTOs\obj\Debug\net6.0\CRM.DTOs.pdb
 C:\Users\MINEDUCYT\Desktop\GUIAS\guia 5\CRM\CRM.DTOs\obj\Debug\net6.0\ref\CRM.DTOs.dll
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\bin\Debug\net6.0\CRM.DTOs.deps.json
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\bin\Debug\net6.0\CRM.DTOs.dll
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\bin\Debug\net6.0\CRM.DTOs.pdb
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\obj\Debug\net6.0\CRM.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\obj\Debug\net6.0\CRM.DTOs.AssemblyInfoInputs.cache
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\obj\Debug\net6.0\CRM.DTOs.AssemblyInfo.cs
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\obj\Debug\net6.0\CRM.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\obj\Debug\net6.0\CRM.DTOs.sourcelink.json
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\obj\Debug\net6.0\CRM.DTOs.dll
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\obj\Debug\net6.0\refint\CRM.DTOs.dll
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\obj\Debug\net6.0\CRM.DTOs.pdb
+C:\Users\The Shadow\Desktop\a\API-MVC\CRM.DTOs\obj\Debug\net6.0\ref\CRM.DTOs.dll

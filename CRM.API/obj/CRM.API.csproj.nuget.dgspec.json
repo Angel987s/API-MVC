@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.API\\CRM.API.csproj": {}
+    "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.API\\CRM.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.API\\CRM.API.csproj": {
+    "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.API\\CRM.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.API\\CRM.API.csproj",
+        "projectUniqueName": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.API\\CRM.API.csproj",
         "projectName": "CRM.API",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.API\\CRM.API.csproj",
-        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.API\\obj\\",
+        "projectPath": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.API\\CRM.API.csproj",
+        "packagesPath": "C:\\Users\\The Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\The Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.DTOs\\CRM.DTOs.csproj": {
-                "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.DTOs\\CRM.DTOs.csproj"
+              "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\CRM.DTOs.csproj": {
+                "projectPath": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\CRM.DTOs.csproj"
               }
             }
           }
@@ -38,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -72,21 +82,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.DTOs\\CRM.DTOs.csproj": {
+    "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\CRM.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.DTOs\\CRM.DTOs.csproj",
+        "projectUniqueName": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\CRM.DTOs.csproj",
         "projectName": "CRM.DTOs",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.DTOs\\CRM.DTOs.csproj",
-        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.DTOs\\obj\\",
+        "projectPath": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\CRM.DTOs.csproj",
+        "packagesPath": "C:\\Users\\The Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\The Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,6 +108,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -106,6 +121,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -122,12 +142,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

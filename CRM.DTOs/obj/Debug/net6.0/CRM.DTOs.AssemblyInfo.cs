@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRM.DTOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62f4a25fe2e0e55d95a64fa34d317173dfae7125")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRM.DTOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRM.DTOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

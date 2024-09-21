@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{352800E9-2C9D-4606-9367-EC2D9B932545}|CRM.AppWebMVC\\CRM.AppWebMVC.csproj|c:\\users\\the shadow\\desktop\\a\\api-mvc\\crm.appwebmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{352800E9-2C9D-4606-9367-EC2D9B932545}|CRM.AppWebMVC\\CRM.AppWebMVC.csproj|solutionrelative:crm.appwebmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352800E9-2C9D-4606-9367-EC2D9B932545}|CRM.AppWebMVC\\CRM.AppWebMVC.csproj|c:\\users\\the shadow\\desktop\\a\\api-mvc\\crm.appwebmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352800E9-2C9D-4606-9367-EC2D9B932545}|CRM.AppWebMVC\\CRM.AppWebMVC.csproj|solutionrelative:crm.appwebmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4E426B-F27B-43F9-AFBC-D2CAD8BF92E5}|CRM.API\\CRM.API.csproj|c:\\users\\the shadow\\desktop\\a\\api-mvc\\crm.api\\endpoints\\customerendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4E426B-F27B-43F9-AFBC-D2CAD8BF92E5}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\endpoints\\customerendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A76FDC-1EB2-42E5-8F73-4C14B7854CC0}|CRM.DTOs\\CRM.DTOs.csproj|c:\\users\\the shadow\\desktop\\a\\api-mvc\\crm.dtos\\customerdtos\\editcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A76FDC-1EB2-42E5-8F73-4C14B7854CC0}|CRM.DTOs\\CRM.DTOs.csproj|solutionrelative:crm.dtos\\customerdtos\\editcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A76FDC-1EB2-42E5-8F73-4C14B7854CC0}|CRM.DTOs\\CRM.DTOs.csproj|c:\\users\\the shadow\\desktop\\a\\api-mvc\\crm.dtos\\customerdtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A76FDC-1EB2-42E5-8F73-4C14B7854CC0}|CRM.DTOs\\CRM.DTOs.csproj|solutionrelative:crm.dtos\\customerdtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.AppWebMVC\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRM.AppWebMVC\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.AppWebMVC\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "CRM.AppWebMVC\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T09:56:11.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.AppWebMVC\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CRM.AppWebMVC\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.AppWebMVC\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CRM.AppWebMVC\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAxwCwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:56:11.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.API\\Endpoints\\CustomerEndpoint.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Endpoints\\CustomerEndpoint.cs",
+              "ToolTip": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.API\\Endpoints\\CustomerEndpoint.cs",
+              "RelativeToolTip": "CRM.API\\Endpoints\\CustomerEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:56:11.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\CustomerDTOs\\EditCustomerDTO.cs",
+              "RelativeDocumentMoniker": "CRM.DTOs\\CustomerDTOs\\EditCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\CustomerDTOs\\EditCustomerDTO.cs",
+              "RelativeToolTip": "CRM.DTOs\\CustomerDTOs\\EditCustomerDTO.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:56:11.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\CustomerDTOs\\CreateCustomerDTO.cs",
+              "RelativeDocumentMoniker": "CRM.DTOs\\CustomerDTOs\\CreateCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\CustomerDTOs\\CreateCustomerDTO.cs",
+              "RelativeToolTip": "CRM.DTOs\\CustomerDTOs\\CreateCustomerDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:56:11.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

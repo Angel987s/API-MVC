@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FelKJfYBHbHeOWp2QxA4buhfXvQYmdOnyL03KN4ibuKsJyQchVpaWevbnqj6wZ6qa+ss6NcQKvq7lwr4xiPxcA==",
+  "dgSpecHash": "7itt+WP6Ijk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\GUIAS\\guia 5\\CRM\\CRM.DTOs\\CRM.DTOs.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\The Shadow\\Desktop\\a\\API-MVC\\CRM.DTOs\\CRM.DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The Shadow\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\The Shadow\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\The Shadow\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }

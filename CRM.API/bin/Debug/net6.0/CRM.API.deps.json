@@ -469,7 +469,10 @@
       },
       "CRM.DTOs/1.0.0": {
         "runtime": {
-          "CRM.DTOs.dll": {}
+          "CRM.DTOs.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
